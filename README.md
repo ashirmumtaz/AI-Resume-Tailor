@@ -2,7 +2,7 @@
 
 **AI Resume Tailor** is a smart web app that automatically rewrites and enhances your resume based on any job description. Upload your resume in PDF format, paste the job posting URL, and get a tailored, ATS-friendly resume in seconds — all powered by **Groq's blazing-fast LLMs** and **LangChain**.
 
-![Demo Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
+![Demo Screenshot](Demo.png) <!-- Replace with actual screenshot -->
 
 ---
 
